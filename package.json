@@ -1,1 +1,1 @@
-{"name":"build_1492893310196","version":"1.0.0","description":"A website","repository":"","author":"?","license":"LGPL","dependencies":{"sjcl":"^1.0.6","express":"*","moment":"*","body-parser":"*","uuid":"*","request":"*","google":"*","sparkpost":"*","winston":"*","geoip-lite":"*"}}
+{"name":"build_1492893410482","version":"1.0.0","description":"A website","repository":"","author":"?","license":"LGPL","dependencies":{"sjcl":"^1.0.6","express":"*","moment":"*","body-parser":"*","uuid":"*","request":"*","google":"*","sparkpost":"*","winston":"*","geoip-lite":"*"}}
